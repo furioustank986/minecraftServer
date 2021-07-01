@@ -1,201 +1,123 @@
-[15:18:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:18:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:18:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:18:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:18:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:18:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:18:37] [main/INFO]: Reloading ResourceManager: Default
-[15:18:38] [Worker-Main-13/INFO]: Loaded 7 recipes
-[15:18:38] [Worker-Main-13/INFO]: Loaded 1137 advancements
-[15:18:40] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:18:40] [Server thread/INFO]: Loading properties
-[15:18:40] [Server thread/INFO]: Default game type: SURVIVAL
-[15:18:40] [Server thread/INFO]: Generating keypair
-[15:18:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:18:40] [Server thread/INFO]: Using default channel type
-[15:18:41] [Server thread/INFO]: Preparing level "world"
-[15:18:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:18:41] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[15:18:47] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:18:48] [Worker-Main-13/INFO]: Preparing spawn area: 48%
-[15:18:49] [Server thread/INFO]: Time elapsed: 8316 ms
-[15:18:49] [Server thread/INFO]: Done (8.484s)! For help, type "help"
-[15:19:56] [User Authenticator #1/INFO]: UUID of player sugarfree1031 is 19d83c99-cbe7-478a-bbd0-a960485fd641
-[15:19:57] [Server thread/INFO]: sugarfree1031[/218.48.43.213:50081] logged in with entity id 225 at (-42.370725013312, 65.0, -10.089874751092653)
-[15:19:57] [Server thread/INFO]: sugarfree1031 joined the game
-[15:20:09] [User Authenticator #2/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
-[15:20:10] [Server thread/INFO]: furioustanks[/127.0.0.1:51122] logged in with entity id 272 at (-46.760818279501045, 65.0, -9.712437056299901)
-[15:20:10] [Server thread/INFO]: furioustanks joined the game
-[15:20:29] [Server thread/INFO]: <sugarfree1031> ?? ?? ?????
-[15:20:47] [Server thread/INFO]: furioustanks was slain by sugarfree1031
-[15:21:36] [Server thread/INFO]: <furioustanks> ?? ?? ????
-[15:21:58] [Server thread/INFO]: <sugarfree1031> ???? ?? ??? ???
-[15:22:01] [Server thread/INFO]: <furioustanks> ???
-[15:22:07] [Server thread/INFO]: <furioustanks> ??
-[15:22:43] [Server thread/INFO]: <furioustanks> ?? ???? ??
-[15:22:48] [Server thread/INFO]: <sugarfree1031> ??
-[15:26:26] [Server thread/INFO]: <sugarfree1031> ?? ??? ?? ???..? ??? ??? ??
-[15:26:31] [Server thread/INFO]: <furioustanks> ????
-[15:26:36] [Server thread/INFO]: <sugarfree1031> ? ??
-[15:26:41] [Server thread/INFO]: <furioustanks> ??? ????
-[15:26:47] [Server thread/INFO]: <furioustanks> ??? ?? ?? ??? ??
-[15:26:53] [Server thread/INFO]: <sugarfree1031> ? ??
-[15:29:10] [Server thread/INFO]: <sugarfree1031> ?? ???
-[15:33:01] [Server thread/INFO]: <furioustanks> ??
-[15:33:04] [Server thread/INFO]: <furioustanks> ?? ???
-[15:33:11] [Server thread/INFO]: <sugarfree1031> ??? ????
-[15:33:15] [Server thread/INFO]: <furioustanks> ??? ?? ???? ??
-[15:33:24] [Server thread/INFO]: <furioustanks> ?? ????
-[15:34:01] [Server thread/INFO]: <furioustanks> ??? ??
-[15:34:05] [Server thread/INFO]: <sugarfree1031> ??
-[15:34:40] [Server thread/INFO]: <furioustanks> ????
-[15:34:45] [Server thread/INFO]: <furioustanks> ??? ???
-[15:34:49] [Server thread/INFO]: <sugarfree1031> ????
-[15:44:40] [Server thread/INFO]: <furioustanks> ?? ?? ??
-[15:45:52] [Server thread/INFO]: <furioustanks> ? ?? ?? ???
-[15:45:54] [Server thread/INFO]: <sugarfree1031> ?????
-[15:45:58] [Server thread/INFO]: <sugarfree1031> ???
-[15:46:02] [Server thread/INFO]: <furioustanks> ?? 1?? ?? ???
-[15:46:49] [Server thread/INFO]: <sugarfree1031> ??? ??
-[15:48:50] [Server thread/INFO]: <furioustanks> ??
-[15:48:57] [Server thread/INFO]: <furioustanks> ?? ?? ??
-[15:48:59] [Server thread/INFO]: <sugarfree1031> ??
-[15:49:02] [Server thread/INFO]: <furioustanks> ????? ??
-[15:49:13] [Server thread/INFO]: <furioustanks> glass pane
-[15:49:14] [Server thread/INFO]: <sugarfree1031> ??? ?? ?? ???? ?? ?? ???
-[15:49:24] [Server thread/INFO]: <furioustanks> ???
-[15:51:53] [Server thread/INFO]: <furioustanks> ??? ????
-[15:52:01] [Server thread/INFO]: <sugarfree1031> ??? ?? ???
-[15:52:14] [Server thread/INFO]: <furioustanks> ???? ???? ????? ?? ?? ??
-[15:52:16] [Server thread/INFO]: <furioustanks> ?? ??
-[15:53:13] [Server thread/INFO]: <sugarfree1031> ......?????
-[15:53:17] [Server thread/INFO]: <furioustanks> ?????
-[15:55:16] [Server thread/INFO]: Villager bjq['Nitwit'/9163, l='ServerLevel[world]', x=838.72, y=66.56, z=-216.37] died, message: 'Nitwit suffocated in a wall'
-[15:56:03] [Server thread/INFO]: <sugarfree1031> ?? ??? ??????
-[15:56:06] [Server thread/INFO]: <furioustanks> ???
-[15:56:09] [Server thread/INFO]: <furioustanks> ????
-[15:56:17] [Server thread/INFO]: <sugarfree1031> ??? ?? ?
-[15:56:25] [Server thread/INFO]: <furioustanks> ?? ???? ????
-[15:56:42] [Server thread/INFO]: <furioustanks> ?? ?? ?? ??
-[15:56:51] [Server thread/INFO]: <sugarfree1031> ??
-[15:56:55] [Server thread/INFO]: <furioustanks> ??
-[15:56:59] [Server thread/INFO]: <furioustanks> ???? ??? ?? ????
-[15:57:06] [Server thread/INFO]: <sugarfree1031> ???
-[15:57:07] [Server thread/INFO]: Villager bjq['Villager'/10300, l='ServerLevel[world]', x=1162.28, y=70.56, z=17.37] died, message: 'Villager suffocated in a wall'
-[15:57:11] [Server thread/INFO]: <sugarfree1031> ?? ???????
-[15:57:18] [Server thread/INFO]: furioustanks has made the advancement [Suit Up]
-[15:59:57] [Server thread/INFO]: furioustanks has made the advancement [Not Today, Thank You]
-[16:00:36] [Server thread/INFO]: sugarfree1031 has made the advancement [Acquire Hardware]
-[16:00:43] [Server thread/INFO]: sugarfree1031 has made the advancement [Suit Up]
-[16:00:43] [Server thread/INFO]: <furioustanks> ?? ?? ?
-[16:00:47] [Server thread/INFO]: <furioustanks> ???
-[16:00:56] [Server thread/INFO]: <sugarfree1031> ?? ?? ???
-[16:02:22] [Server thread/INFO]: Villager bjq['Villager'/10174, l='ServerLevel[world]', x=1156.46, y=73.94, z=82.95] died, message: 'Villager was slain by sugarfree1031'
-[16:03:53] [Server thread/INFO]: <furioustanks> ?? ??
-[16:04:04] [Server thread/INFO]: <sugarfree1031> ?? ??
-[16:04:04] [Server thread/INFO]: <furioustanks> ?? ? ??? ???? ?????? ??
-[16:04:13] [Server thread/INFO]: <sugarfree1031> ?????
-[16:04:15] [Server thread/INFO]: <furioustanks> ???? ?? ???
-[16:04:20] [Server thread/INFO]: <sugarfree1031> ???????
-[16:04:45] [Server thread/INFO]: <sugarfree1031> ...???
-[16:04:52] [Server thread/INFO]: <furioustanks> ?? ?
-[16:05:04] [Server thread/INFO]: <sugarfree1031> ? ?? ?????? ??? ?? ??
-[16:05:16] [Server thread/INFO]: <furioustanks> ?? ??
-[16:05:27] [Server thread/INFO]: <sugarfree1031> ... ???????
-[16:06:05] [Server thread/INFO]: <furioustanks> -43 64 -11
-[16:06:06] [Server thread/INFO]: sugarfree1031 was slain by Spider
-[16:06:27] [Server thread/INFO]: <furioustanks> ??? ??
-[16:06:29] [Server thread/INFO]: <furioustanks> ??
-[16:06:57] [Server thread/INFO]: <sugarfree1031> ??? ??
-[16:07:27] [Server thread/INFO]: <furioustanks> ?
-[16:07:29] [Server thread/INFO]: <furioustanks> ??
-[16:07:31] [Server thread/INFO]: <furioustanks> ???
-[16:07:35] [Server thread/INFO]: <sugarfree1031> ??
-[16:07:51] [Server thread/INFO]: <furioustanks> ?? 2??? ?? ???
-[16:07:56] [Server thread/INFO]: <sugarfree1031> ???
-[16:09:14] [Server thread/INFO]: furioustanks has made the advancement [Best Friends Forever]
-[16:10:25] [Server thread/INFO]: <furioustanks> ?? ???
-[16:10:29] [Server thread/INFO]: <sugarfree1031> ???
-[16:10:35] [Server thread/INFO]: <sugarfree1031> ?? ?? ????
-[16:13:20] [Server thread/INFO]: <sugarfree1031> ???? ?????
-[16:13:34] [Server thread/INFO]: <furioustanks> ?? ??
-[16:13:41] [Server thread/INFO]: <sugarfree1031> ?? ???
-[16:13:55] [Server thread/INFO]: <furioustanks> ??
-[16:13:57] [Server thread/INFO]: <furioustanks> ????
-[16:14:04] [Server thread/INFO]: <furioustanks> ? ?? ???
-[16:14:17] [Server thread/INFO]: <sugarfree1031> ?'
-[16:14:27] [Server thread/INFO]: <furioustanks> ?? ?
-[16:14:30] [Server thread/INFO]: <sugarfree1031> ????
-[16:14:42] [Server thread/INFO]: <sugarfree1031> ?? ?? ??
-[16:15:05] [Server thread/INFO]: <furioustanks> ?? ?? ??? ??? ???
-[16:16:22] [Server thread/INFO]: <sugarfree1031> ?? ?? ??? ???? ??
-[16:16:26] [Server thread/INFO]: <furioustanks> ???
-[16:16:49] [Server thread/INFO]: <furioustanks> ??
-[16:16:52] [Server thread/INFO]: <sugarfree1031> ???? ??? ???? ?????
-[16:17:00] [Server thread/INFO]: <furioustanks> ???
-[16:23:35] [Server thread/INFO]: <furioustanks> ?? ??
-[16:23:39] [Server thread/INFO]: <sugarfree1031> ??
-[16:27:15] [Server thread/INFO]: <furioustanks> ??? ???
-[16:27:22] [Server thread/INFO]: <furioustanks> ??????
-[16:27:23] [Server thread/INFO]: <sugarfree1031> ???;;
-[16:31:17] [Server thread/INFO]: <sugarfree1031> ?? ?? ?????? ???? ??? ?
-[16:31:24] [Server thread/INFO]: <furioustanks> ???
-[16:31:46] [Server thread/INFO]: <sugarfree1031> ?? ??
-[16:31:59] [Server thread/INFO]: <sugarfree1031> ????????\
-[16:33:26] [Server thread/INFO]: <sugarfree1031> ?? ???
-[16:33:34] [Server thread/INFO]: <furioustanks> ???
-[16:33:39] [Server thread/INFO]: <sugarfree1031> ???
-[16:33:54] [Server thread/INFO]: furioustanks drowned
-[16:34:38] [Server thread/INFO]: <furioustanks> ? ??
-[16:35:27] [Server thread/INFO]: <sugarfree1031> ??
-[16:35:33] [Server thread/INFO]: <furioustanks> ?? ???
-[16:35:37] [Server thread/INFO]: <sugarfree1031> ?
-[16:37:27] [Server thread/INFO]: furioustanks was shot by Skeleton
-[16:40:15] [Server thread/INFO]: <furioustanks> ?? ????,
-[16:40:21] [Server thread/INFO]: <sugarfree1031> ??? ????
-[16:40:42] [Server thread/INFO]: <sugarfree1031> ?? ???? ??????
-[16:40:48] [Server thread/INFO]: <furioustanks> ??
-[16:40:49] [Server thread/INFO]: sugarfree1031 drowned
-[16:41:39] [Server thread/INFO]: <furioustanks> ?? ??
-[16:41:44] [Server thread/INFO]: <sugarfree1031> ;;; ??
-[16:45:16] [Server thread/INFO]: Villager bjq['Villager'/168, l='ServerLevel[world]', x=164.10, y=65.00, z=26.88] died, message: 'Villager was slain by sugarfree1031'
-[16:47:34] [Server thread/INFO]: furioustanks was shot by Skeleton
-[16:47:46] [Server thread/INFO]: Villager bjq['Farmer'/24528, l='ServerLevel[world]', x=148.30, y=75.16, z=108.30] died, message: 'Farmer was slain by sugarfree1031'
-[16:51:35] [Server thread/INFO]: sugarfree1031 lost connection: Timed out
-[16:51:35] [Server thread/INFO]: sugarfree1031 left the game
-[16:52:12] [Server thread/INFO]: furioustanks lost connection: Disconnected
-[16:52:12] [Server thread/INFO]: furioustanks left the game
-[16:52:30] [User Authenticator #3/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
-[16:52:30] [Server thread/INFO]: furioustanks[/172.30.1.254:51617] logged in with entity id 29480 at (-78.23556997485544, 64.0, -15.720120324937323)
-[16:52:30] [Server thread/INFO]: furioustanks joined the game
-[16:57:01] [Server thread/INFO]: furioustanks has made the advancement [The Parrots and the Bats]
-[16:57:25] [Server thread/INFO]: furioustanks has made the advancement [We Need to Go Deeper]
-[17:00:41] [Server thread/INFO]: furioustanks has made the advancement [Who is Cutting Onions?]
-[17:01:03] [Server thread/INFO]: Gamerule keepInventory is now set to: true
-[17:08:39] [Server thread/INFO]: furioustanks lost connection: Disconnected
-[17:08:39] [Server thread/INFO]: furioustanks left the game
-[17:08:50] [Server thread/INFO]: Stopping the server
-[17:08:50] [Server thread/INFO]: Stopping server
-[17:08:50] [Server thread/INFO]: Saving players
-[17:08:50] [Server thread/INFO]: Saving worlds
-[17:08:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:08:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:08:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:08:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:08:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:08:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:08:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:08:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:51:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:51:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:51:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:51:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:01] [main/INFO]: Reloading ResourceManager: Default
+[15:51:03] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:51:03] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[15:51:06] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:51:06] [Server thread/INFO]: Loading properties
+[15:51:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:51:06] [Server thread/INFO]: Generating keypair
+[15:51:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:51:06] [Server thread/INFO]: Using default channel type
+[15:51:07] [Server thread/INFO]: Preparing level "world"
+[15:51:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:51:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:51:08] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:51:08] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[15:51:15] [Worker-Main-11/INFO]: Preparing spawn area: 29%
+[15:51:16] [Worker-Main-13/INFO]: Preparing spawn area: 84%
+[15:51:16] [Worker-Main-11/INFO]: Preparing spawn area: 93%
+[15:51:16] [Server thread/INFO]: Time elapsed: 9316 ms
+[15:51:16] [Server thread/INFO]: Done (9.588s)! For help, type "help"
+[15:55:48] [User Authenticator #1/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[15:55:49] [Server thread/INFO]: furioustanks[/172.30.1.254:60099] logged in with entity id 201 at (-65.5162997599337, 64.875, -14.114209286870718)
+[15:55:49] [Server thread/INFO]: furioustanks joined the game
+[15:56:05] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[15:56:05] [Server thread/INFO]: furioustanks left the game
+[15:57:22] [User Authenticator #2/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[15:57:22] [Server thread/INFO]: furioustanks[/172.30.1.254:50615] logged in with entity id 251 at (-65.5162997599337, 64.875, -14.114209286870718)
+[15:57:22] [Server thread/INFO]: furioustanks joined the game
+[16:01:09] [User Authenticator #3/INFO]: UUID of player sugarfree1031 is 19d83c99-cbe7-478a-bbd0-a960485fd641
+[16:01:09] [Server thread/INFO]: sugarfree1031[/218.48.43.213:51934] logged in with entity id 821 at (-46.17373792052056, 64.0, -15.407295046386418)
+[16:01:09] [Server thread/INFO]: sugarfree1031 joined the game
+[16:03:36] [Server thread/INFO]: sugarfree1031 was slain by furioustanks
+[16:03:43] [Server thread/INFO]: sugarfree1031 lost connection: Disconnected
+[16:03:43] [Server thread/INFO]: sugarfree1031 left the game
+[16:03:53] [User Authenticator #4/INFO]: UUID of player sugarfree1031 is 19d83c99-cbe7-478a-bbd0-a960485fd641
+[16:03:53] [Server thread/INFO]: sugarfree1031[/218.48.43.213:52083] logged in with entity id 1459 at (-75.2471534890356, 64.0, -12.131164442570872)
+[16:03:53] [Server thread/INFO]: sugarfree1031 joined the game
+[16:14:28] [Server thread/INFO]: sugarfree1031 has made the advancement [Take Aim]
+[16:20:12] [Server thread/INFO]: sugarfree1031 has made the advancement [Isn't It Iron Pick]
+[16:24:33] [Server thread/INFO]: furioustanks was burnt to a crisp whilst fighting Zombie
+[16:24:53] [Server thread/INFO]: Teleported furioustanks to sugarfree1031
+[16:24:53] [Server thread/WARN]: furioustanks moved too quickly! -26.539753288399297,-50.5625,63.212720969807286
+[16:25:54] [Server thread/INFO]: furioustanks has made the advancement [Take Aim]
+[16:31:19] [Server thread/INFO]: sugarfree1031 has made the advancement [Hot Stuff]
+[16:36:33] [Server thread/INFO]: <sugarfree1031> t
+[16:40:33] [Server thread/WARN]: furioustanks moved too quickly! 0.8366496647792019,-1.0,-9.991585772449824
+[16:44:53] [Server thread/INFO]: furioustanks was shot by Skeleton
+[16:44:58] [Server thread/INFO]: Teleported furioustanks to sugarfree1031
+[16:44:58] [Server thread/WARN]: furioustanks moved too quickly! -35.07240597482034,-37.5625,164.50811462256988
+[16:44:59] [Server thread/WARN]: furioustanks moved too quickly! -35.07240597482034,-37.5625,164.50811462256988
+[16:44:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:44:59] [Server thread/INFO]: <--[HERE]
+[16:47:58] [Server thread/INFO]: furioustanks tried to swim in lava
+[16:48:28] [Server thread/INFO]: sugarfree1031 tried to swim in lava
+[16:55:01] [Server thread/INFO]: furioustanks has made the advancement [Enchanter]
+[16:56:52] [Server thread/INFO]: sugarfree1031 has made the advancement [Fishy Business]
+[16:56:57] [Server thread/INFO]: furioustanks has made the advancement [Tactical Fishing]
+[16:57:17] [Server thread/INFO]: sugarfree1031 has made the advancement [Tactical Fishing]
+[17:13:29] [Server thread/WARN]: furioustanks moved too quickly! -10.251143536854949,0.604424101326714,-0.17658938167026594
+[17:13:49] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[17:13:49] [Server thread/INFO]: furioustanks left the game
+[17:13:57] [User Authenticator #5/INFO]: UUID of player furioustanks is ba552573-ff45-4cd3-8930-ccc9449eef89
+[17:13:57] [Server thread/INFO]: furioustanks[/127.0.0.1:60150] logged in with entity id 15203 at (-25.642950248591884, 64.0, 9.201348427228373)
+[17:13:57] [Server thread/INFO]: furioustanks joined the game
+[17:14:22] [Server thread/INFO]: sugarfree1031 has made the advancement [We Need to Go Deeper]
+[17:16:16] [Server thread/INFO]: sugarfree1031 tried to swim in lava to escape furioustanks
+[17:16:20] [Server thread/INFO]: sugarfree1031 lost connection: Disconnected
+[17:16:20] [Server thread/INFO]: sugarfree1031 left the game
+[17:16:31] [User Authenticator #6/INFO]: UUID of player sugarfree1031 is 19d83c99-cbe7-478a-bbd0-a960485fd641
+[17:16:31] [Server thread/INFO]: sugarfree1031[/218.48.43.213:52805] logged in with entity id 15827 at (-5.659870246124423, 26.075614569147778, -10.687268796573685)
+[17:16:31] [Server thread/INFO]: sugarfree1031 joined the game
+[17:17:07] [Server thread/INFO]: furioustanks drowned
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -8.885824137305463,0.0,-5.271552329129577
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -8.704331309131646,0.0,-5.6318353145258016
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -9.00828585400808,0.0,-5.8864412702138225
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -9.238406891018599,0.0,-5.459249933105411
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -9.307504176069642,0.0,-6.1462721794525805
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -9.591309082848,0.0,-5.646459611996534
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -9.60203382694607,0.0,-6.411156858401455
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -9.944504025358981,0.0,-5.83321992495064
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -9.892008954671724,0.0,-6.680859087780846
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -10.2979676961358,0.0,-6.01956557333699
+[17:26:18] [Server thread/WARN]: Boat (vehicle of furioustanks) moved too quickly! -10.177547424000807,0.0,-6.95516265485071
+[17:26:18] [Server thread/WARN]: Boat (vehicle of sugarfree1031) moved too quickly! -10.6516784750047,0.0,-6.205527786524613
+[17:28:08] [Server thread/WARN]: Boat (vehicle of furioustanks) moved wrongly! 0.4531944923186302
+[17:31:06] [Server thread/INFO]: sugarfree1031 has made the advancement [Best Friends Forever]
+[17:32:37] [Server thread/INFO]: furioustanks was slain by Wolf
+[17:33:28] [Server thread/INFO]: sugarfree1031 drowned
+[17:34:29] [Server thread/INFO]: furioustanks lost connection: Disconnected
+[17:34:29] [Server thread/INFO]: furioustanks left the game
+[17:34:29] [Server thread/INFO]: sugarfree1031 lost connection: Disconnected
+[17:34:29] [Server thread/INFO]: sugarfree1031 left the game
+[17:34:35] [Server thread/INFO]: Stopping the server
+[17:34:35] [Server thread/INFO]: Stopping server
+[17:34:35] [Server thread/INFO]: Saving players
+[17:34:35] [Server thread/INFO]: Saving worlds
+[17:34:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:34:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:34:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:34:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:34:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:34:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:34:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:34:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:34:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

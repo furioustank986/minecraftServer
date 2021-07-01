@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-07-01 16:08:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-25 15:46:21 +0900"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-07-01 16:53:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2021-06-24 23:51:43 +0900"
@@ -92,6 +104,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-06-25 00:04:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-01 16:35:57 +0900"
     },
     "done": true
   },
@@ -191,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_the_recipe": "2021-07-01 17:18:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-06-24 23:43:58 +0900"
@@ -206,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-06-25 00:23:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-01 16:35:57 +0900"
     },
     "done": true
   },
@@ -369,8 +399,12 @@
     "criteria": {
       "cooked_porkchop": "2021-06-25 00:00:53 +0900",
       "cooked_mutton": "2021-06-25 00:21:55 +0900",
+      "cooked_beef": "2021-07-01 16:57:22 +0900",
+      "baked_potato": "2021-07-01 16:08:40 +0900",
       "apple": "2021-06-25 15:30:23 +0900",
+      "bread": "2021-07-01 16:37:33 +0900",
       "rotten_flesh": "2021-06-25 16:46:32 +0900",
+      "cod": "2021-07-01 17:13:44 +0900",
       "cooked_salmon": "2021-06-24 23:50:05 +0900"
     },
     "done": false
@@ -402,6 +436,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-06-25 17:01:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-07-01 17:00:48 +0900"
     },
     "done": true
   },
@@ -585,6 +625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-07-01 16:53:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-25 15:46:21 +0900"
@@ -702,6 +748,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-06-25 00:10:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-01 16:35:57 +0900"
     },
     "done": true
   },
@@ -1010,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-07-01 16:55:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-24 23:56:48 +0900"
@@ -1073,6 +1131,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-06-24 23:51:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-07-01 16:08:45 +0900"
     },
     "done": true
   },
@@ -1169,6 +1233,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-06-25 17:01:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-07-01 17:00:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-07-01 16:53:04 +0900"
     },
     "done": true
   },
@@ -1283,6 +1359,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-06-25 15:31:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-07-01 16:56:57 +0900"
     },
     "done": true
   },
@@ -1502,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-07-01 16:53:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-06-25 00:23:43 +0900"
@@ -1595,6 +1683,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-06-25 17:01:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-07-01 17:17:35 +0900"
     },
     "done": true
   },
@@ -1799,10 +1893,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2021-06-24 23:27:56 +0900",
+      "minecraft:mountains": "2021-07-01 17:28:49 +0900",
       "minecraft:taiga": "2021-06-24 23:32:07 +0900",
       "minecraft:snowy_tundra": "2021-06-25 15:53:28 +0900",
       "minecraft:taiga_hills": "2021-06-25 15:59:19 +0900",
       "minecraft:river": "2021-06-24 23:32:01 +0900",
+      "minecraft:wooded_mountains": "2021-07-01 17:29:48 +0900",
       "minecraft:plains": "2021-06-24 22:46:22 +0900"
     },
     "done": false
@@ -1822,6 +1918,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-25 00:00:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-07-01 17:17:35 +0900"
     },
     "done": true
   },
@@ -1939,9 +2041,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-07-01 16:25:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-06-24 23:50:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-07-01 16:53:04 +0900"
     },
     "done": true
   },
@@ -2029,6 +2143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-01 16:35:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-06-25 00:23:43 +0900"
@@ -2038,6 +2158,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-06-25 16:49:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-07-01 17:00:48 +0900"
     },
     "done": true
   },
@@ -2052,6 +2178,12 @@
       "minecraft:crimson_forest": "2021-06-25 16:57:25 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-07-01 16:35:57 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
